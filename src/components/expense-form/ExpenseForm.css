@@ -1,0 +1,44 @@
+form{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    
+}
+
+
+#name{
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+    width: 20rem;
+    max-width: 100%;
+}
+
+#price{
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+#date{
+    font: inherit;
+    padding: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+    max-width: 100%;
+}
+
+
+
+
+
+
